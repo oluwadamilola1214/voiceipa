@@ -1,0 +1,136 @@
+src/components/IPAChart.css
+/* body{
+    background-color: darkcyan;
+  } */
+  /* h1, h2, h3 {
+    text-align: center;
+    color: #333;
+  } */
+  /* .ipa-chart {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      padding: 1rem;
+    } */
+    /* .consi{
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      font-weight: bold;
+      margin-bottom: 10px;
+    }
+    
+    .ipa-button {
+      padding: 0.5rem 1rem;
+      font-size: 1.2rem;
+      border: 2px solid #000;
+      border-radius: 0.5rem;
+      background-color:white;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    
+    .ipa-button:hover {
+      background-color: #d0d0d0;
+    }
+    
+    .content {
+      margin-top: 2rem;
+      width: 100%;
+    }
+    
+    .content div {
+      margin-bottom: 1rem;
+      font-size: 1.1rem;
+    }
+    .ipa-chart {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    
+    .section {
+      margin-bottom: 20px;
+    }
+    
+    /* .ipa-button {
+      margin: 10px;
+      padding: 10px 20px;
+      font-size: 16px;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      cursor: pointer;
+    } */
+    
+    .content {
+      margin-top: 20px;
+    }
+    
+    .symbol-container {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+    }
+    
+    .symbol-content {
+      margin-top: 10px;
+    }
+    .ipa-chart {
+      text-align: center;
+      margin: 20px;
+    }
+    
+    .monophthongs-section,
+    .consonants-section {
+      margin: 20px 0;
+    }
+    
+    .monophthong-button {
+      background-color: #f0e68c;
+      color: #000;
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .consonant-button {
+      background-color: #add8e6;
+      color: #000;
+      padding: 10px 20px;
+      margin: 5px;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
+    
+    .content-section {
+      margin-top: 20px;
+      font-size: 18px;
+    }
+    .monothongs-section {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    
+    .monothong-button {
+      font-weight: bold; /* Bold the text */
+      margin: 5px;
+      padding: 5px 10px;
+      background-color: #f0f0f0;
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    
+    .monothong-button:focus {
+      outline: none; /* Remove focus outline */
+    }
+   
+   
+    
+
+
+    
+    
